@@ -1,0 +1,39 @@
+.nav li{
+    display: inline;
+    margin-right: -4px;
+}
+
+.nav li {
+    width: 120px;
+    border-bottom: none;
+    height: 50px;
+    font-size: 2.5em;
+}
+
+.nav ul{
+    background-color: rgb(236, 86, 149);
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.nav a {
+    color: #fff;
+    display: inline;
+    padding-left: 18px;
+}
+
+body{
+    font-family: Roboto;
+    margin: 0;
+    padding: 0;
+    background: #ccc;
+}
+
+footer{
+    background-color: darkkhaki;
+    font-size: 1.5em;
+}
+p{
+    color: rgb(87, 83, 32);
+}
